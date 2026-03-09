@@ -1,0 +1,14 @@
+{
+  "name": "Lawvable",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "lawvable.minimal-agent-workspace"
+      ]
+    }
+  },
+
+  "postCreateCommand": "bash .devcontainer/setup.sh"
+}
