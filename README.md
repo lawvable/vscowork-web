@@ -44,7 +44,7 @@ These agents are installed from their official open-source repositories via [Bun
 
 **No telemetry.** The extension collects no analytics, no usage data, no crash reports. Telemetry is explicitly disabled in the extension manifest.
 
-**Network calls are minimal and transparent.** The extension only contacts `lawvable.com` to: (1) fetch the list of available skills; (2) download skill files you choose to install; (3) download the Superdoc fork described above. No background data collection, no tracking, no profiling.
+**Network calls are minimal and transparent.** The extension only contacts [lawvable.com](https://www.lawvable.com/en/skills) to: (1) fetch the list of available skills; (2) download skill files you choose to install; (3) download the Superdoc fork described above. No background data collection, no tracking, no profiling.
 
 **User-initiated submissions only.** If you choose to submit a skill or send feedback via the extension, you'll be prompted for your name and email — this simply sends us an email. Nothing is sent without your explicit action.
 
@@ -59,4 +59,4 @@ These agents are installed from their official open-source repositories via [Bun
 
 ## License
 
-[MIT](LICENSE)
+This repository is licensed under MIT.
