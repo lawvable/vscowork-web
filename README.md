@@ -2,7 +2,7 @@
 
 VSCowork is a pre-configured environment ready for AI-assisted document work. Try it now in your browser:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lawvable/vscowork?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lawvable/vscowork-web?quickstart=1)
 
 ## What this does
 
